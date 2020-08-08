@@ -9,11 +9,11 @@ Executar no terminal
 
 composer update
 
-#modificação do controller
+# modificação do controller
 
 em URL, inserir o endereço que deseja monitorar
 
-#Utilização
+# Utilização
 
 php -S localhost:8000 -t public
 
