@@ -1,8 +1,11 @@
 # olx-crawler
- web crawler de monitoramento de preços OLX
+
+API Lumen para monitoramento de preços de produtos OLX, quando incluido o link no controller é recebido um json contendo os preços atuais do produto. Pode ser inserido no banco de dados e comparar com o preço atual, fazendo assim com que tenha sempre a diferença do que é novo ou alteração do preço
 
 # Instalação
 habilitar extensão openssl no php.ini
+
+Executar no terminal
 
 composer update
 
